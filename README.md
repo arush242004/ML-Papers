@@ -4,6 +4,7 @@ Cool and interesting ML papers that I will implement. The areas of ML touched wi
 For npw, I am interested in Optimizers.
 
 ### Optimizers that I will focus on for now:
-- [x] SGD
+- [ ] SGD
 - [ ] Adam
 - [ ] Gravity
+...tons more to follow!
