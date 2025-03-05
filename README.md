@@ -9,3 +9,5 @@ For now, I am interested in Optimizers.
 - [ ] Gravity
 
 ...tons more to follow!
+
+(Optimizers are my *main* focus for now. I, however, will switch up and implement papers randomly, of my pure interest. Sometimes these can be things like genetic algorithms and other times they can be on activation functions!)
