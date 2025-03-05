@@ -7,4 +7,5 @@ For now, I am interested in Optimizers.
 - [ ] SGD
 - [ ] Adam
 - [ ] Gravity
+
 ...tons more to follow!
